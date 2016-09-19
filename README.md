@@ -5,7 +5,7 @@
 
 ## Getting Started
 
- 1. Follow the [instructions](https://csc309-fall-2016.github.io/git-primer.md) from the [Resources](https://csc309-fall-2016.github.io/resources/) page on the web site.
+ 1. Follow the [instructions](https://csc309-fall-2016.github.io/git-primer.html) from the [Resources](https://csc309-fall-2016.github.io/resources/) page on the web site.
 
  
  6. Read and follow the instructions in `lab1-starter.html`
