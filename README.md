@@ -13,20 +13,20 @@
  
  3. You may need to do some set up for git.
 
-'''git config --global user.email "your_email@example.com"
-'''
+```git config --global user.email "your_email@example.com"
+```
 
  4. Run `git remote -v`.  You should see the following (with the words in all caps replaced by relevant values.)
- '''  
+ ```  
  origin  https://github.com/YOUR_USERNAME/YOUR_FORK.git (fetch)
  origin  https://github.com/YOUR_USERNAME/YOUR_FORK.git (push)
- '''
+ ```
  
  5. Add the original repo to the remotes, so that you can pull any changes.
  
- '''  
+ ```  
  git remote add upstream https://github.com/CSC309-Fall-2016/ORIGINAL_REPOSITORY.git_
- '''
+ ```
  
  6. Read and follow the instructions in `lab1.html`
  
@@ -34,3 +34,4 @@
  
  8. Run `git add` and `git commit` on these two files to commit them to the local repository.
  
+ 9. When you are ready to submit, got to github.com, to your forked repo, and use the buttons to make a pull requestion.
