@@ -17,6 +17,7 @@
 ```
 
  4. Run `git remote -v`.  You should see the following (with the words in all caps replaced by relevant values.)
+ 
  ```  
  origin  https://github.com/YOUR_USERNAME/YOUR_FORK.git (fetch)
  origin  https://github.com/YOUR_USERNAME/YOUR_FORK.git (push)
