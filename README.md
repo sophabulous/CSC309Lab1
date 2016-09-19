@@ -1,40 +1,17 @@
 ## Learning objectives
 
- *
-  Practice using Git and Github
+ * Practice using Git and Github
  * Learn basic HTML5 and CSS skills or refresh these skills
 
 ## Getting Started
 
- 1. [Fork][github-fork] this repo.
+ 1. Follow the [instructions](https://csc309-fall-2016.github.io/git-primer.md) from the [Resources](https://csc309-fall-2016.github.io/resources/) page on the web site.
 
-     > _Note:_ Your fork is private and is only visible to you, the TAs and the instructors.
-
- 2. Clone the fork to your local machine (using the `git clone` command).
  
- 3. You may need to do some set up for git.
-
- ```
- git config --global user.email "your_email@example.com"
- ```
-
- 4. Run `git remote -v`.  You should see the following (with the words in all caps replaced by relevant values.)
+ 6. Read and follow the instructions in `lab1-starter.html`
  
- ```  
- origin  https://github.com/YOUR_USERNAME/YOUR_FORK.git (fetch)
- origin  https://github.com/YOUR_USERNAME/YOUR_FORK.git (push)
- ```
- 
- 5. Add the original repo to the remotes, so that you can pull any changes.
- 
- ```  
- git remote add upstream https://github.com/CSC309-Fall-2016/ORIGINAL_REPOSITORY.git_
- ```
- 
- 6. Read and follow the instructions in `lab1.html`
- 
- 7. When you have finished the lab, you should have files named `lab1.html` and `style.css` at in the top level of your repo.
+ 7. When you have finished the lab, you should have new files named `lab1.html` and `style.css` at in the top level of your repo.
  
  8. Run `git add` and `git commit` on these two files to commit them to the local repository.
  
- 9. When you are ready to submit, got to github.com, to your forked repo, and use the buttons to make a pull requestion.
+ 9. When you are ready to submit, go to your forked repo on github.com, and use the buttons to make a pull request.
