@@ -14,9 +14,9 @@
  
  3. You may need to do some set up for git.
 
-```
-git config --global user.email "your_email@example.com"
-```
+ ```
+ git config --global user.email "your_email@example.com"
+ ```
 
  4. Run `git remote -v`.  You should see the following (with the words in all caps replaced by relevant values.)
  
