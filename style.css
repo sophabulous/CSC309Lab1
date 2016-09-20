@@ -6,6 +6,17 @@ body, div{
 header{
 	font-size: 3em;
 }
+
+.row{
+	display: flex;
+	position: absolute;
+}
+
+.navbar{
+/*	flex-grow: 1;*/
+	width: 30%;
+	position: relative;
+}
 /* unvisited link */
 a:link {
 	color: #99ccff;
@@ -46,9 +57,11 @@ nav a{
 	display: flex;
 }
 
-.content{
+.content {
+	width: 70%;
+	position: relative;
 	text-align: left;
-	padding-right: 10%;
+	padding-right: 15%;
 }
 
 table{
